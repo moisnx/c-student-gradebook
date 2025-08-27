@@ -13,8 +13,8 @@ A console-based student grade management system built during my first 10 days le
 ## Usage
 
 ```bash
-gcc -o gradebook gradebook.c
-./gradebook
+gcc -o main main.c
+./main
 ```
 
 ## Sample Output
